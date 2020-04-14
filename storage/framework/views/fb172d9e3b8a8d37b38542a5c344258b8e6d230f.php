@@ -1,0 +1,1 @@
+show<?php /**PATH /Applications/MAMP/htdocs/iexptest/resources/views/usuarios/show.blade.php ENDPATH**/ ?>
